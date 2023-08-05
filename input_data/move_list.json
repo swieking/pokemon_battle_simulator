@@ -1,0 +1,399 @@
+[
+    {
+        "name": "vine whip",
+        "type": "grass",
+        "cat": "physical",
+        "power": 45,
+        "acc": 100,
+        "pp": 25,
+        "effect": "may lowers opponent's speed"
+    },
+    {
+        "name": "absorb",
+        "type": "grass",
+        "cat": "special",
+        "power": 50,
+        "acc": 100,
+        "pp": 25,
+        "effect": "user recovers half the hp inflicted on opponent"
+    },
+    {
+        "name": "solar beam",
+        "type": "grass",
+        "cat": "special",
+        "power": 120,
+        "acc": 100,
+        "pp": 10,
+        "effect": null
+    },
+    {
+        "name": "fire spin",
+        "type": "fire",
+        "cat": "special",
+        "power": 25,
+        "acc": 85,
+        "pp": 15,
+        "effect": "hits 2-5 times in one turn"
+    },
+    {
+        "name": "flame wheel",
+        "type": "fire",
+        "cat": "physical",
+        "power": 60,
+        "acc": 100,
+        "pp": 25,
+        "effect": "may burn opponent"
+    },
+    {
+        "name": "fire blast",
+        "type": "fire",
+        "cat": "special",
+        "power": 90,
+        "acc": 85,
+        "pp": 5,
+        "effect": "may burn opponent"
+    },
+    {
+        "name": "bubble",
+        "type": "water",
+        "cat": "special",
+        "power": 30,
+        "acc": 100,
+        "pp": 30,
+        "effect": "may lowers opponent's speed"
+    },
+    {
+        "name": "water gun",
+        "type": "water",
+        "cat": "special",
+        "power": 50,
+        "acc": 100,
+        "pp": 25,
+        "effect": "hits 2-5 times in one turn"
+    },
+    {
+        "name": "hydro pump",
+        "type": "water",
+        "cat": "special",
+        "power": 150,
+        "acc": 80,
+        "pp": 5,
+        "effect": null
+    },
+    {
+        "name": "string shot",
+        "type": "bug",
+        "cat": "status",
+        "power": 5,
+        "acc": 95,
+        "pp": 40,
+        "effect": "may lowers opponent's speed"
+    },
+    {
+        "name": "leech life",
+        "type": "bug",
+        "cat": "physical",
+        "power": 80,
+        "acc": 90,
+        "pp": 10,
+        "effect": "user recovers half the hp inflicted on opponent"
+    },
+    {
+        "name": "pin missile",
+        "type": "bug",
+        "cat": "physical",
+        "power": 25,
+        "acc": 95,
+        "pp": 20,
+        "effect": "hits 2-5 times in one turn"
+    },
+    {
+        "name": "growl",
+        "type": "normal",
+        "cat": "status",
+        "power": 5,
+        "acc": 100,
+        "pp": 40,
+        "effect": "lowers opponent's attack"
+    },
+    {
+        "name": "tackle",
+        "type": "normal",
+        "cat": "physical",
+        "power": 50,
+        "acc": 100,
+        "pp": 35,
+        "effect": null
+    },
+    {
+        "name": "quick attack",
+        "type": "normal",
+        "cat": "physical",
+        "power": 30,
+        "acc": 70,
+        "pp": 30,
+        "effect": "hits 2-5 times in one turn"
+    },
+    {
+        "name": "scratch",
+        "type": "normal",
+        "cat": "physical",
+        "power": 80,
+        "acc": 75,
+        "pp": 35,
+        "effect": null
+    },
+    {
+        "name": "double slap",
+        "type": "normal",
+        "cat": "physical",
+        "power": 15,
+        "acc": 85,
+        "pp": 10,
+        "effect": "hits 2-5 times in one turn"
+    },
+    {
+        "name": "take down",
+        "type": "normal",
+        "cat": "physical",
+        "power": 5,
+        "acc": 15,
+        "pp": 20,
+        "effect": "one-hit-ko, if it hits"
+    },
+    {
+        "name": "acid",
+        "type": "poison",
+        "cat": "special",
+        "power": 40,
+        "acc": 100,
+        "pp": 30,
+        "effect": "may lowers opponent's defense"
+    },
+    {
+        "name": "smog",
+        "type": "poison",
+        "cat": "special",
+        "power": 50,
+        "acc": 70,
+        "pp": 20,
+        "effect": "may poison the opponent"
+    },
+    {
+        "name": "sludge bomb",
+        "type": "poison",
+        "cat": "special",
+        "power": 90,
+        "acc": 70,
+        "pp": 10,
+        "effect": "may poison the opponent"
+    },
+    {
+        "name": "thunder shock",
+        "type": "electric",
+        "cat": "special",
+        "power": 10,
+        "acc": 100,
+        "pp": 30,
+        "effect": "may paralyzes opponent"
+    },
+    {
+        "name": "thunder",
+        "type": "electric",
+        "cat": "special",
+        "power": 100,
+        "acc": 70,
+        "pp": 10,
+        "effect": "may paralyzes opponent"
+    },
+
+    {
+        "name": "earthquake",
+        "type": "ground",
+        "cat": "physical",
+        "power": 45,
+        "acc": 100,
+        "pp": 10,
+        "effect": "may lowers opponent's speed"
+    },
+    {
+        "name": "sand attack",
+        "type": "ground",
+        "cat": "status",
+        "power": 30,
+        "acc": 100,
+        "pp": 15,
+        "effect": "may lowers opponent's speed"
+    },
+    {
+        "name": "fissure",
+        "type": "ground",
+        "cat": "physical",
+        "power": 5,
+        "acc": 25,
+        "pp": 5,
+        "effect": "one-hit-ko, if it hits"
+    },
+    {
+        "name": "karate chop",
+        "type": "fighting",
+        "cat": "physical",
+        "power": 120,
+        "acc": 100,
+        "pp": 25,
+        "effect": null
+    },
+    {
+        "name": "low kicks",
+        "type": "fighting",
+        "cat": "physical",
+        "power": 20,
+        "acc": 90,
+        "pp": 20,
+        "effect": "hits 2-5 times in one turn"
+    },
+    {
+        "name": "focus energy",
+        "type": "fighting",
+        "cat": "status",
+        "power": 5,
+        "acc": 50,
+        "pp": 30,
+        "effect": "raises user's attack and speed"
+    },
+    {
+        "name": "psybeam",
+        "type": "psychic",
+        "cat": "special",
+        "power": 65,
+        "acc": 100,
+        "pp": 20,
+        "effect": "may confuses opponent"
+    },
+    {
+        "name": "psychic",
+        "type": "psychic",
+        "cat": "special",
+        "power": 90,
+        "acc": 90,
+        "pp": 10,
+        "effect": "may lowers opponent's speed"
+    },
+    {
+        "name": "dream eater",
+        "type": "psychic",
+        "cat": "special",
+        "power": 100,
+        "acc": 60,
+        "pp": 15,
+        "effect": "user recovers half the hp inflicted on opponent"
+    },
+    {
+        "name": "rock throw",
+        "type": "rock",
+        "cat": "physical",
+        "power": 50,
+        "acc": 90,
+        "pp": 15,
+        "effect": null
+    },
+    {
+        "name": "rock slide",
+        "type": "rock",
+        "cat": "physical",
+        "power": 75,
+        "acc": 90,
+        "pp": 10,
+        "effect": "may confuses opponent"
+    },
+    {
+        "name": "sandstorm",
+        "type": "rock",
+        "cat": "status",
+        "power": 5,
+        "acc": 50,
+        "pp": 10,
+        "effect": "raises user's attack and speed"
+    },
+    {
+        "name": "shadow ball",
+        "type": "ghost",
+        "cat": "special",
+        "power": 80,
+        "acc": 100,
+        "pp": 15,
+        "effect": "may lowers opponent's speed"
+    },
+    {
+        "name": "lick",
+        "type": "ghost",
+        "cat": "physical",
+        "power": 30,
+        "acc": 85,
+        "pp": 30,
+        "effect": "may paralyzes opponent"
+    },
+    {
+        "name": "sing",
+        "type": "ghost",
+        "cat": "status",
+        "power": 50,
+        "acc": 40,
+        "pp": 15,
+        "effect": "puts opponent to sleep"
+    },
+    {
+        "name": "ice beam",
+        "type": "ice",
+        "cat": "special",
+        "power": 40,
+        "acc": 100,
+        "pp": 10,
+        "effect": "may freeze opponent"
+    },
+    {
+        "name": "ice punch",
+        "type": "ice",
+        "cat": "physical",
+        "power": 75,
+        "acc": 80,
+        "pp": 15,
+        "effect": "may freeze opponent"
+    },
+    {
+        "name": "blizzard",
+        "type": "ice",
+        "cat": "special",
+        "power": 100,
+        "acc": 60,
+        "pp": 5,
+        "effect": "may freeze opponent"
+    },
+    {
+        "name": "dragon rage",
+        "type": "dragon",
+        "cat": "special",
+        "power": 40,
+        "acc": 100,
+        "pp": 10,
+        "effect": null
+    },
+    {
+        "name": "dragon breath",
+        "type": "dragon",
+        "cat": "special",
+        "power": 40,
+        "acc": 80,
+        "pp": 20,
+        "effect": "may paralyzes opponent"
+    },
+    {
+        "name": "dragon claw",
+        "type": "dragon",
+        "cat": "physical",
+        "power": 50,
+        "acc": 90,
+        "pp": 15,
+        "effect": "raises user's attack and speed"
+    }
+]
